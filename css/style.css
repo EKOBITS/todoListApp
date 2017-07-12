@@ -1,0 +1,46 @@
+body {
+	position: absolute;
+	margin-left: 40%;
+	transform: 50px, 50px;
+	font-family: roboto;
+}
+
+h1{
+	font-size: 40px;
+	font-weight: 30px;
+	color: #087e45;
+}
+
+.txtArea {
+	border-radius: 5px;
+	border-color: #087e45;
+}
+
+.txtArea:hover{
+	border-color: red;
+	border-radius: 2px;
+}
+
+.btn {
+	background-color: lightblue;
+	border-radius: 3px;
+	border-color: white;
+	font-size: 15px
+	color: #ffffff;
+}
+
+.btn-save {
+	background-color: #087e45;
+}
+
+.btn-delete {
+	background-color: red;
+}
+
+.hand-cursor {
+	
+}
+
+.hand-cursor:hover {
+	cursor: hand;
+}
